@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcingTaskApp", "EventSourcingTaskApp\EventSourcingTaskApp.csproj", "{B22D8188-364C-4D17-87A1-3C807434E98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22D8188-364C-4D17-87A1-3C807434E98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22D8188-364C-4D17-87A1-3C807434E98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22D8188-364C-4D17-87A1-3C807434E98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22D8188-364C-4D17-87A1-3C807434E98F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADEA80DD-C61E-4052-BCFE-5497E75D2CAE}
+	EndGlobalSection
+EndGlobal
